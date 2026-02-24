@@ -1,13 +1,3 @@
-// 'use client';
-
-// import LikedImages from '../components/LikedImages';
-
-// export default function Page() {
-//   return <LikedImages />;
-// }
-
-
-
 
 'use client';
 
@@ -30,4 +20,5 @@ export default function Page() {
   // Show image gallery only if authenticated
   return <ImageGallery />;
 }
+
 
